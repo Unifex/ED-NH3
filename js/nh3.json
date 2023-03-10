@@ -1014,12 +1014,6 @@
     "targets": ["Scanned"]
   },
   {
-    "name": "Wregoe TI-M b51-0",
-    "body": "A 2",
-    "coords": { "x": 158.5, "y": 540.09375, "z": 40 },
-    "targets": ["Scanned"]
-  },
-  {
     "name": "Wregoe EF-T b47-0",
     "body": "C 1",
     "coords": { "x": 137.25, "y": 515.90625, "z": -41.09375 },
@@ -1043,7 +1037,766 @@
     "coords": { "x": 26.28125, "y": 668.1875, "z": 78.75 },
     "targets": ["Scanned"]
   },
-  {"name": "Wregoe LG-I c24-4", "body": "A 3", "coords": {"x": 220.34375, "y": 426.53125, "z": -9.28125}, "targets": ["Scanned"]}, {"name": "Wregoe NZ-F d11-7", "body": "6", "coords": {"x": 183, "y": 529.125, "z": -42.96875}, "targets": ["Scanned"]}, {"name": "Wregoe XI-N b50-0", "body": "B 2", "coords": {"x": 165.53125, "y": 470.53125, "z": 23.71875}, "targets": ["Scanned"]}, {"name": "Wregoe IZ-M b50-0", "body": "AB 4", "coords": {"x": 297.90625, "y": 419.25, "z": 15.125}, "targets": ["Scanned"]}, {"name": "HIP 57527", "body": "8", "coords": {"x": 169.0625, "y": 480.90625, "z": -47.8125}, "targets": ["Scanned"]}, {"name": "Wregoe SW-H b53-1", "body": "A 1", "coords": {"x": 297.75, "y": 438.65625, "z": 76.59375}, "targets": ["Scanned"]}, {"name": "Wregoe TI-M b51-0", "body": "A 2", "coords": {"x": 158.5, "y": 540.09375, "z": 40}, "targets": ["Scanned"]}, {"name": "Wregoe RM-G c25-4", "body": "A 5", "coords": {"x": 317.9375, "y": 418.34375, "z": 28.25}, "targets": ["Scanned"]}, {"name": "Wregoe MA-U b46-0", "body": "8", "coords": {"x": 175.9375, "y": 434.34375, "z": -50.5625}, "targets": ["Scanned"]}, {"name": "Wregoe OV-R b48-0", "body": "2", "coords": {"x": 342.75, "y": 571.875, "z": -8.875}, "targets": ["Scanned"]}, {"name": "Wregoe FL-H b54-0", "body": "1", "coords": {"x": 246.375, "y": 582.84375, "z": 100.59375}, "targets": ["Scanned"]}, {"name": "Wregoe MP-V b45-1", "body": "B 4", "coords": {"x": 216.34375, "y": 404.8125, "z": -81.03125}, "targets": ["Scanned"]}, {"name": "Wregoe GU-L c22-5", "body": "8", "coords": {"x": 341.5625, "y": 453.34375, "z": -88.4375}, "targets": ["Scanned"]},
-  {"name": "Praea Euq YB-R b6-1", "body": "7", "coords": {"x": 59.375, "y": 344.4375, "z": 355.0625}, "targets": ["Scanned"]}, {"name": "Praea Euq NJ-W b3-2", "body": "A 1", "coords": {"x": 84.625, "y": 346.375, "z": 298.09375}, "targets": ["Scanned"]}, {"name": "HIP 70316", "body": "4 e", "coords": {"x": 102.46875, "y": 352.40625, "z": 287.0625}, "targets": ["Scanned"]}, {"name": "Praea Euq EI-Y b2-1", "body": "A 1", "coords": {"x": 31.40625, "y": 365.71875, "z": 278.15625}, "targets": ["Scanned"]}, {"name": "Praea Euq OZ-V b3-1", "body": "A 4", "coords": {"x": 23.15625, "y": 298.71875, "z": 296.90625}, "targets": ["Scanned"]}, {"name": "Praea Euq XU-X c1-1", "body": "4", "coords": {"x": 88.09375, "y": 287.53125, "z": 305.59375}, "targets": ["Scanned"]}, {"name": "Col 359 Sector QH-R c6-5", "body": "2", "coords": {"x": 55.09375, "y": 341.71875, "z": 400.84375}, "targets": ["Scanned"]}, {"name": "HIP 73274", "body": "A 6", "coords": {"x": 2.4375, "y": 345.46875, "z": 289.09375}, "targets": ["Scanned"]}, {"name": "HIP 75261", "body": "A 7", "coords": {"x": -7.34375, "y": 312.4375, "z": 334}, "targets": ["Scanned"]}, {"name": "HIP 74627", "body": "BC 1 a", "coords": {"x": -14.34375, "y": 347.25, "z": 330.5625}, "targets": ["Scanned"]}, {"name": "HIP 73033", "body": "8", "coords": {"x": 14.21875, "y": 324.71875, "z": 275.875}, "targets": ["Scanned"]}, {"name": "HIP 73033", "body": "9", "coords": {"x": 14.21875, "y": 324.71875, "z": 275.875}, "targets": ["Scanned"]}, {"name": "Praea Euq PY-Z c9", "body": "A 4", "coords": {"x": 85.75, "y": 337.5, "z": 264.53125}, "targets": ["Scanned"]}, {"name": "Praea Euq UE-Z d14", "body": "8", "coords": {"x": 8, "y": 400.75, "z": 302.6875}, "targets": ["Scanned"]}, {"name": "HIP 75882", "body": "9", "coords": {"x": 35.40625, "y": 282.34375, "z": 387.875}, "targets": ["Scanned"]}, {"name": "Praea Euq ST-A d25", "body": "6", "coords": {"x": 5.09375, "y": 313.9375, "z": 269.4375}, "targets": ["Scanned"]}, {"name": "Praea Euq TO-Z c5", "body": "4", "coords": {"x": 83.25, "y": 274.4375, "z": 274.59375}, "targets": ["Scanned"]}, {"name": "HIP 69541", "body": "9", "coords": {"x": 116.9375, "y": 324.40625, "z": 261.125}, "targets": ["Scanned"]}, {"name": "Praea Euq BS-P b7-0", "body": "A 1", "coords": {"x": 121.84375, "y": 386.65625, "z": 388.3125}, "targets": ["Scanned"]}, {"name": "Praea Euq VA-C b1-0", "body": "9", "coords": {"x": 54.3125, "y": 377.59375, "z": 240.84375}, "targets": ["Scanned"]}, {"name": "Praea Euq EY-N b8-1", "body": "D 5", "coords": {"x": 97.46875, "y": 393.09375, "z": 407.4375}, "targets": ["Scanned"]}, {"name": "Praea Euq XV-B b1-1", "body": "A 4", "coords": {"x": 42.59375, "y": 357.5, "z": 236.15625}, "targets": ["Scanned"]}, {"name": "Praea Euq QY-Z c2", "body": "3", "coords": {"x": 125.34375, "y": 362.09375, "z": 261.46875}, "targets": ["Scanned"]}, {"name": "Praea Euq PT-Z c9", "body": "3", "coords": {"x": -0.34375, "y": 296.0625, "z": 261.40625}, "targets": ["Scanned"]}, {"name": "Praea Euq OI-B c8", "body": "4", "coords": {"x": 38.5, "y": 287.9375, "z": 240.3125}, "targets": ["Scanned"]}, {"name": "HIP 69310", "body": "AB 2", "coords": {"x": 65.1875, "y": 390.8125, "z": 235}, "targets": ["Scanned"]}, {"name": "Praea Euq IS-S c4-7", "body": "A 3", "coords": {"x": 126.59375, "y": 329.1875, "z": 423.5}, "targets": ["Scanned"]}, {"name": "Col 359 Sector KR-U d3-13", "body": "7", "coords": {"x": -28.625, "y": 334.5, "z": 419.6875}, "targets": ["Scanned"]}, {"name": "Praea Euq NI-A c1-0", "body": "A 4", "coords": {"x": 139.21875, "y": 419.53125, "z": 258}, "targets": ["Scanned"]}, {"name": "HIP 70720", "body": "5 d", "coords": {"x": 94.3125, "y": 247.53125, "z": 233.875}, "targets": ["Scanned"]}, {"name": "Praea Euq OS-A b1-2", "body": "3", "coords": {"x": 138.84375, "y": 250.53125, "z": 248.40625}, "targets": ["Scanned"]},
-  {"name": "Col 285 Sector TK-D c13-5", "body": "B 9", "coords": {"x": 84.375, "y": 169.46875, "z": 204.84375}, "targets": ["Scanned"]}, {"name": "Col 285 Sector KA-H b26-2", "body": "A 2", "coords": {"x": 72.5625, "y": 191.15625, "z": 203.6875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector TK-D c13-2", "body": "B 6", "coords": {"x": 64.40625, "y": 140.59375, "z": 181.40625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector TW-E b27-1", "body": "6", "coords": {"x": 77.21875, "y": 137.5, "z": 223.375}, "targets": ["Scanned"]}, {"name": "Col 285 Sector VV-B c14-11", "body": "3", "coords": {"x": 93.40625, "y": 193.53125, "z": 236.4375}, "targets": ["Scanned"]}, {"name": "Col 285 Sector TG-G b26-0", "body": "7", "coords": {"x": 82.3125, "y": 113.65625, "z": 213.5}, "targets": ["Scanned"]}, {"name": "Col 285 Sector ZC-M b23-3", "body": "A 1", "coords": {"x": 54.59375, "y": 157.25, "z": 144.5}, "targets": ["Scanned"]}, {"name": "HIP 76003", "body": "4", "coords": {"x": 31.875, "y": 163.84375, "z": 244.40625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector AB-N d7-45", "body": "A 3", "coords": {"x": 112.90625, "y": 171.84375, "z": 230.03125}, "targets": ["Scanned"]}, {"name": "Col 285 Sector YP-O d6-75", "body": "6", "coords": {"x": 106.15625, "y": 115.90625, "z": 199.9375}, "targets": ["Scanned"]}, {"name": "HIP 71785", "body": "4", "coords": {"x": 27.59375, "y": 181.125, "z": 150.625}, "targets": ["Scanned"]}, {"name": "HIP 68629", "body": "B 1", "coords": {"x": 80.75, "y": 157.71875, "z": 134}, "targets": ["Scanned"]}, {"name": "HIP 77686", "body": "6", "coords": {"x": 18.28125, "y": 117.0625, "z": 212.1875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector YX-K b24-0", "body": "2", "coords": {"x": 58.625, "y": 217.4375, "z": 156.03125}, "targets": ["Scanned"]}, {"name": "Col 285 Sector WU-O d6-76", "body": "8", "coords": {"x": 129.75, "y": 191.9375, "z": 186.03125}, "targets": ["Scanned"]}, {"name": "Col 285 Sector QG-G b26-2", "body": "5", "coords": {"x": 21.96875, "y": 105.53125, "z": 204.90625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector WX-K b24-2", "body": "2", "coords": {"x": 28.0625, "y": 217.8125, "z": 157.9375}, "targets": ["Scanned"]}, {"name": "Col 285 Sector WX-K b24-2", "body": "4", "coords": {"x": 28.0625, "y": 217.8125, "z": 157.9375}, "targets": ["Scanned"]}, {"name": "Praea Euq YE-Y b1-3", "body": "7", "coords": {"x": 98.34375, "y": 169.71875, "z": 270.875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector YW-N b22-3", "body": "4", "coords": {"x": 104.75, "y": 169.5625, "z": 129.1875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector TA-C c14-9", "body": "2", "coords": {"x": 60.25, "y": 242.8125, "z": 215.71875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector VC-L b24-0", "body": "A 3", "coords": {"x": 51.34375, "y": 238.90625, "z": 169.84375}, "targets": ["Scanned"]}, {"name": "HR 5499", "body": "D 4", "coords": {"x": 120.90625, "y": 179.6875, "z": 259.90625}, "targets": ["Scanned"]}, {"name": "HIP 71164", "body": "A 7", "coords": {"x": 139.15625, "y": 160.03125, "z": 239.71875}, "targets": ["Scanned"]}, {"name": "HIP 73544", "body": "7", "coords": {"x": -4.8125, "y": 191.90625, "z": 159.71875}, "targets": ["Scanned"]}, {"name": "HIP 70038", "body": "8 a", "coords": {"x": 76.90625, "y": 251.625, "z": 201.53125}, "targets": ["Scanned"]}, {"name": "Col 285 Sector TF-D c13-15", "body": "2", "coords": {"x": -10.3125, "y": 116.9375, "z": 197.59375}, "targets": ["Scanned"]}, {"name": "HIP 69884", "body": "A 6", "coords": {"x": 29.71875, "y": 181.8125, "z": 118.21875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector TZ-O d6-53", "body": "6", "coords": {"x": 63.5625, "y": 255.3125, "z": 204.28125}, "targets": ["Scanned"]}, {"name": "Col 285 Sector CU-I b25-0", "body": "A 5", "coords": {"x": -23.28125, "y": 176.75, "z": 180.15625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector AI-E b27-6", "body": "B 5", "coords": {"x": 112.96875, "y": 92.53125, "z": 232.25}, "targets": ["Scanned"]}, {"name": "Col 285 Sector WR-N b22-0", "body": "5", "coords": {"x": 20.21875, "y": 140.09375, "z": 120.5}, "targets": ["Scanned"]}, {"name": "Col 285 Sector SB-G b26-4", "body": "A 5", "coords": {"x": 15.59375, "y": 85.53125, "z": 202.84375}, "targets": ["Scanned"]}, {"name": "Col 285 Sector BW-M d7-62", "body": "ABC 1", "coords": {"x": 40.53125, "y": 123.0625, "z": 280.09375}, "targets": ["Scanned"]}, {"name": "HIP 70720", "body": "5 d", "coords": {"x": 94.3125, "y": 247.53125, "z": 233.875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector SA-I b25-2", "body": "A 3", "coords": {"x": 141.84375, "y": 109.375, "z": 184.84375}, "targets": ["Scanned"]}, {"name": "Col 285 Sector SL-P b21-2", "body": "3", "coords": {"x": 23.90625, "y": 154.71875, "z": 112.6875}, "targets": ["Scanned"]}, {"name": "HIP 66428", "body": "7", "coords": {"x": 145.90625, "y": 139.90625, "z": 150.1875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector YP-O d6-114", "body": "6", "coords": {"x": 97.90625, "y": 89.625, "z": 145.75}, "targets": ["Scanned"]}, {"name": "Col 285 Sector NZ-D c13-10", "body": "5", "coords": {"x": 92.90625, "y": 256.40625, "z": 182}, "targets": ["Scanned"]}, {"name": "Col 285 Sector CN-N b22-1", "body": "7", "coords": {"x": 99.65625, "y": 116.5625, "z": 119.9375}, "targets": ["Scanned"]}, {"name": "Col 285 Sector UU-E c12-13", "body": "B 5", "coords": {"x": 128.96875, "y": 93.53125, "z": 159.96875}, "targets": ["Scanned"]}, {"name": "Wolf 540", "body": "B 3", "coords": {"x": 0.6875, "y": 235.6875, "z": 163.0625}, "targets": ["Scanned"]}, {"name": "Praea Euq WO-A d41", "body": "ABC 4", "coords": {"x": 115.875, "y": 251.03125, "z": 223.1875}, "targets": ["Scanned"]}, {"name": "HIP 79546", "body": "A 5", "coords": {"x": 45.34375, "y": 80.59375, "z": 257.5}, "targets": ["Scanned"]}, {"name": "Col 285 Sector TU-E c12-6", "body": "A 8", "coords": {"x": 71.21875, "y": 66.4375, "z": 160.8125}, "targets": ["Scanned"]}, {"name": "Col 285 Sector OL-O b22-1", "body": "6", "coords": {"x": 21.90625, "y": 221.8125, "z": 119.53125}, "targets": ["Scanned"]}, {"name": "Col 285 Sector YA-D c13-5", "body": "A 3", "coords": {"x": 120.09375, "y": 72.15625, "z": 183.5}, "targets": ["Scanned"]}, {"name": "HIP 72353", "body": "AB 5", "coords": {"x": 66.4375, "y": 77.09375, "z": 129.09375}, "targets": ["Scanned"]}, {"name": "Praea Euq DV-Y c2", "body": "B 1", "coords": {"x": 141.96875, "y": 108.75, "z": 261.375}, "targets": ["Scanned"]}, {"name": "Col 285 Sector BJ-C b28-6", "body": "A 10", "coords": {"x": 9.96875, "y": 73.3125, "z": 239.34375}, "targets": ["Scanned"]}, {"name": "Wregoe BZ-W b57-0", "body": "2", "coords": {"x": 162.71875, "y": 225.0625, "z": 186.8125}, "targets": ["Scanned"]}, {"name": "HIP 71142", "body": "ABC 5", "coords": {"x": 5.25, "y": 254.34375, "z": 159.0625}, "targets": ["Scanned"]}, {"name": "HIP 80291", "body": "5", "coords": {"x": -26.5625, "y": 131.5625, "z": 260.78125}, "targets": ["Scanned"]}, {"name": "Col 285 Sector TZ-E c12-22", "body": "8", "coords": {"x": 154.75, "y": 100.21875, "z": 156.71875}, "targets": ["Scanned"]}, {"name": "Praea Euq LY-Y b1-0", "body": "A 4", "coords": {"x": -1.1875, "y": 240.5, "z": 258.34375}, "targets": ["Scanned"]}, {"name": "HIP 63903", "body": "1 a", "coords": {"x": 154.9375, "y": 192.375, "z": 123.46875}, "targets": ["Scanned"]}, {"name": "Praea Euq LR-V b2-0", "body": "3", "coords": {"x": 115.9375, "y": 94.25, "z": 283}, "targets": ["Scanned"]}, {"name": "Col 285 Sector GI-N b22-1", "body": "B 6", "coords": {"x": 140.53125, "y": 101.15625, "z": 127.3125}, "targets": ["Scanned"]}, {"name": "HIP 70677", "body": "12", "coords": {"x": 45.21875, "y": 96.375, "z": 99.125}, "targets": ["Scanned"]}, {"name": "HIP 80608", "body": "8", "coords": {"x": -16, "y": 78.8125, "z": 167.1875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector MV-O b22-2", "body": "4", "coords": {"x": 59.875, "y": 255.8125, "z": 116.3125}, "targets": ["Scanned"]}, {"name": "Praea Euq OS-A b1-2", "body": "3", "coords": {"x": 138.84375, "y": 250.53125, "z": 248.40625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector RQ-O b22-2", "body": "A 3", "coords": {"x": 122.75, "y": 237.5, "z": 115.84375}, "targets": ["Scanned"]}, {"name": "Praea Euq XJ-Z c12", "body": "3", "coords": {"x": 156.71875, "y": 224.625, "z": 258.96875}, "targets": ["Scanned"]}, {"name": "Col 285 Sector DN-Z c14-12", "body": "A 2", "coords": {"x": -11.8125, "y": 92.8125, "z": 268.75}, "targets": ["Scanned"]}, {"name": "Col 285 Sector OT-Q d5-42", "body": "5", "coords": {"x": -8.78125, "y": 215.25, "z": 107.09375}, "targets": ["Scanned"]}, {"name": "HIP 65701", "body": "AB 3", "coords": {"x": 119.71875, "y": 86.6875, "z": 108.78125}, "targets": ["Scanned"]}, {"name": "Praea Euq DV-Y c1", "body": "A 6", "coords": {"x": 156, "y": 125.6875, "z": 286.53125}, "targets": ["Scanned"]}, {"name": "Col 285 Sector HI-N b22-4", "body": "4", "coords": {"x": 159.9375, "y": 114.0625, "z": 120.90625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector HI-N b22-4", "body": "5", "coords": {"x": 159.9375, "y": 114.0625, "z": 120.90625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector PT-G c11-17", "body": "A 3", "coords": {"x": 156.8125, "y": 98.84375, "z": 127.375}, "targets": ["Scanned"]}, {"name": "Col 285 Sector LV-Y b29-4", "body": "A 4", "coords": {"x": 48.5625, "y": 64.71875, "z": 286.625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector LV-Y b29-4", "body": "A 5", "coords": {"x": 48.5625, "y": 64.71875, "z": 286.625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector EJ-L b23-2", "body": "A 1", "coords": {"x": -23.9375, "y": 76.875, "z": 148.0625}, "targets": ["Scanned"]}, {"name": "Praea Euq DU-A b3", "body": "C 3", "coords": {"x": 158.90625, "y": 68.59375, "z": 234}, "targets": ["Scanned"]}, {"name": "HIP 79459", "body": "A 13", "coords": {"x": 83.6875, "y": 65.625, "z": 297.28125}, "targets": ["Scanned"]}, {"name": "HIP 75762", "body": "6", "coords": {"x": 19.21875, "y": 68, "z": 106.78125}, "targets": ["Scanned"]}, {"name": "Borme", "body": "6", "coords": {"x": 135.53125, "y": 65.375, "z": 122.5}, "targets": ["Scanned"]}, {"name": "Col 285 Sector ID-N b22-1", "body": "A 6", "coords": {"x": 142.375, "y": 75.5, "z": 116.5625}, "targets": ["Scanned"]}, {"name": "HIP 64011", "body": "AB 2", "coords": {"x": 148.59375, "y": 85.5625, "z": 111.625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector DN-Z c14-6", "body": "10", "coords": {"x": -15.40625, "y": 72.90625, "z": 292.90625}, "targets": ["Scanned"]}, {"name": "Col 285 Sector RO-G c11-12", "body": "B 3", "coords": {"x": 151.1875, "y": 64.65625, "z": 110.25}, "targets": ["Scanned"]}
+  {
+    "name": "Wregoe LG-I c24-4",
+    "body": "A 3",
+    "coords": { "x": 220.34375, "y": 426.53125, "z": -9.28125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe NZ-F d11-7",
+    "body": "6",
+    "coords": { "x": 183, "y": 529.125, "z": -42.96875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe XI-N b50-0",
+    "body": "B 2",
+    "coords": { "x": 165.53125, "y": 470.53125, "z": 23.71875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe IZ-M b50-0",
+    "body": "AB 4",
+    "coords": { "x": 297.90625, "y": 419.25, "z": 15.125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 57527",
+    "body": "8",
+    "coords": { "x": 169.0625, "y": 480.90625, "z": -47.8125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe SW-H b53-1",
+    "body": "A 1",
+    "coords": { "x": 297.75, "y": 438.65625, "z": 76.59375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe TI-M b51-0",
+    "body": "A 2",
+    "coords": { "x": 158.5, "y": 540.09375, "z": 40 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe RM-G c25-4",
+    "body": "A 5",
+    "coords": { "x": 317.9375, "y": 418.34375, "z": 28.25 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe MA-U b46-0",
+    "body": "8",
+    "coords": { "x": 175.9375, "y": 434.34375, "z": -50.5625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe OV-R b48-0",
+    "body": "2",
+    "coords": { "x": 342.75, "y": 571.875, "z": -8.875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe FL-H b54-0",
+    "body": "1",
+    "coords": { "x": 246.375, "y": 582.84375, "z": 100.59375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe MP-V b45-1",
+    "body": "B 4",
+    "coords": { "x": 216.34375, "y": 404.8125, "z": -81.03125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe GU-L c22-5",
+    "body": "8",
+    "coords": { "x": 341.5625, "y": 453.34375, "z": -88.4375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq YB-R b6-1",
+    "body": "7",
+    "coords": { "x": 59.375, "y": 344.4375, "z": 355.0625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq NJ-W b3-2",
+    "body": "A 1",
+    "coords": { "x": 84.625, "y": 346.375, "z": 298.09375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 70316",
+    "body": "4 e",
+    "coords": { "x": 102.46875, "y": 352.40625, "z": 287.0625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq EI-Y b2-1",
+    "body": "A 1",
+    "coords": { "x": 31.40625, "y": 365.71875, "z": 278.15625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq OZ-V b3-1",
+    "body": "A 4",
+    "coords": { "x": 23.15625, "y": 298.71875, "z": 296.90625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq XU-X c1-1",
+    "body": "4",
+    "coords": { "x": 88.09375, "y": 287.53125, "z": 305.59375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 359 Sector QH-R c6-5",
+    "body": "2",
+    "coords": { "x": 55.09375, "y": 341.71875, "z": 400.84375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 73274",
+    "body": "A 6",
+    "coords": { "x": 2.4375, "y": 345.46875, "z": 289.09375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 75261",
+    "body": "A 7",
+    "coords": { "x": -7.34375, "y": 312.4375, "z": 334 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 74627",
+    "body": "BC 1 a",
+    "coords": { "x": -14.34375, "y": 347.25, "z": 330.5625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 73033",
+    "body": "8",
+    "coords": { "x": 14.21875, "y": 324.71875, "z": 275.875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 73033",
+    "body": "9",
+    "coords": { "x": 14.21875, "y": 324.71875, "z": 275.875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq PY-Z c9",
+    "body": "A 4",
+    "coords": { "x": 85.75, "y": 337.5, "z": 264.53125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq UE-Z d14",
+    "body": "8",
+    "coords": { "x": 8, "y": 400.75, "z": 302.6875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 75882",
+    "body": "9",
+    "coords": { "x": 35.40625, "y": 282.34375, "z": 387.875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq ST-A d25",
+    "body": "6",
+    "coords": { "x": 5.09375, "y": 313.9375, "z": 269.4375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq TO-Z c5",
+    "body": "4",
+    "coords": { "x": 83.25, "y": 274.4375, "z": 274.59375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 69541",
+    "body": "9",
+    "coords": { "x": 116.9375, "y": 324.40625, "z": 261.125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq BS-P b7-0",
+    "body": "A 1",
+    "coords": { "x": 121.84375, "y": 386.65625, "z": 388.3125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq VA-C b1-0",
+    "body": "9",
+    "coords": { "x": 54.3125, "y": 377.59375, "z": 240.84375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq EY-N b8-1",
+    "body": "D 5",
+    "coords": { "x": 97.46875, "y": 393.09375, "z": 407.4375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq XV-B b1-1",
+    "body": "A 4",
+    "coords": { "x": 42.59375, "y": 357.5, "z": 236.15625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq QY-Z c2",
+    "body": "3",
+    "coords": { "x": 125.34375, "y": 362.09375, "z": 261.46875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq PT-Z c9",
+    "body": "3",
+    "coords": { "x": -0.34375, "y": 296.0625, "z": 261.40625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq OI-B c8",
+    "body": "4",
+    "coords": { "x": 38.5, "y": 287.9375, "z": 240.3125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 69310",
+    "body": "AB 2",
+    "coords": { "x": 65.1875, "y": 390.8125, "z": 235 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq IS-S c4-7",
+    "body": "A 3",
+    "coords": { "x": 126.59375, "y": 329.1875, "z": 423.5 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 359 Sector KR-U d3-13",
+    "body": "7",
+    "coords": { "x": -28.625, "y": 334.5, "z": 419.6875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq NI-A c1-0",
+    "body": "A 4",
+    "coords": { "x": 139.21875, "y": 419.53125, "z": 258 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 70720",
+    "body": "5 d",
+    "coords": { "x": 94.3125, "y": 247.53125, "z": 233.875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq OS-A b1-2",
+    "body": "3",
+    "coords": { "x": 138.84375, "y": 250.53125, "z": 248.40625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector TK-D c13-5",
+    "body": "B 9",
+    "coords": { "x": 84.375, "y": 169.46875, "z": 204.84375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector KA-H b26-2",
+    "body": "A 2",
+    "coords": { "x": 72.5625, "y": 191.15625, "z": 203.6875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector TK-D c13-2",
+    "body": "B 6",
+    "coords": { "x": 64.40625, "y": 140.59375, "z": 181.40625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector TW-E b27-1",
+    "body": "6",
+    "coords": { "x": 77.21875, "y": 137.5, "z": 223.375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector VV-B c14-11",
+    "body": "3",
+    "coords": { "x": 93.40625, "y": 193.53125, "z": 236.4375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector TG-G b26-0",
+    "body": "7",
+    "coords": { "x": 82.3125, "y": 113.65625, "z": 213.5 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector ZC-M b23-3",
+    "body": "A 1",
+    "coords": { "x": 54.59375, "y": 157.25, "z": 144.5 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 76003",
+    "body": "4",
+    "coords": { "x": 31.875, "y": 163.84375, "z": 244.40625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector AB-N d7-45",
+    "body": "A 3",
+    "coords": { "x": 112.90625, "y": 171.84375, "z": 230.03125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector YP-O d6-75",
+    "body": "6",
+    "coords": { "x": 106.15625, "y": 115.90625, "z": 199.9375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 71785",
+    "body": "4",
+    "coords": { "x": 27.59375, "y": 181.125, "z": 150.625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 68629",
+    "body": "B 1",
+    "coords": { "x": 80.75, "y": 157.71875, "z": 134 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 77686",
+    "body": "6",
+    "coords": { "x": 18.28125, "y": 117.0625, "z": 212.1875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector YX-K b24-0",
+    "body": "2",
+    "coords": { "x": 58.625, "y": 217.4375, "z": 156.03125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector WU-O d6-76",
+    "body": "8",
+    "coords": { "x": 129.75, "y": 191.9375, "z": 186.03125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector QG-G b26-2",
+    "body": "5",
+    "coords": { "x": 21.96875, "y": 105.53125, "z": 204.90625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector WX-K b24-2",
+    "body": "2",
+    "coords": { "x": 28.0625, "y": 217.8125, "z": 157.9375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector WX-K b24-2",
+    "body": "4",
+    "coords": { "x": 28.0625, "y": 217.8125, "z": 157.9375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq YE-Y b1-3",
+    "body": "7",
+    "coords": { "x": 98.34375, "y": 169.71875, "z": 270.875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector YW-N b22-3",
+    "body": "4",
+    "coords": { "x": 104.75, "y": 169.5625, "z": 129.1875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector TA-C c14-9",
+    "body": "2",
+    "coords": { "x": 60.25, "y": 242.8125, "z": 215.71875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector VC-L b24-0",
+    "body": "A 3",
+    "coords": { "x": 51.34375, "y": 238.90625, "z": 169.84375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HR 5499",
+    "body": "D 4",
+    "coords": { "x": 120.90625, "y": 179.6875, "z": 259.90625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 71164",
+    "body": "A 7",
+    "coords": { "x": 139.15625, "y": 160.03125, "z": 239.71875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 73544",
+    "body": "7",
+    "coords": { "x": -4.8125, "y": 191.90625, "z": 159.71875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 70038",
+    "body": "8 a",
+    "coords": { "x": 76.90625, "y": 251.625, "z": 201.53125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector TF-D c13-15",
+    "body": "2",
+    "coords": { "x": -10.3125, "y": 116.9375, "z": 197.59375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 69884",
+    "body": "A 6",
+    "coords": { "x": 29.71875, "y": 181.8125, "z": 118.21875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector TZ-O d6-53",
+    "body": "6",
+    "coords": { "x": 63.5625, "y": 255.3125, "z": 204.28125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector CU-I b25-0",
+    "body": "A 5",
+    "coords": { "x": -23.28125, "y": 176.75, "z": 180.15625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector AI-E b27-6",
+    "body": "B 5",
+    "coords": { "x": 112.96875, "y": 92.53125, "z": 232.25 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector WR-N b22-0",
+    "body": "5",
+    "coords": { "x": 20.21875, "y": 140.09375, "z": 120.5 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector SB-G b26-4",
+    "body": "A 5",
+    "coords": { "x": 15.59375, "y": 85.53125, "z": 202.84375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector BW-M d7-62",
+    "body": "ABC 1",
+    "coords": { "x": 40.53125, "y": 123.0625, "z": 280.09375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 70720",
+    "body": "5 d",
+    "coords": { "x": 94.3125, "y": 247.53125, "z": 233.875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector SA-I b25-2",
+    "body": "A 3",
+    "coords": { "x": 141.84375, "y": 109.375, "z": 184.84375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector SL-P b21-2",
+    "body": "3",
+    "coords": { "x": 23.90625, "y": 154.71875, "z": 112.6875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 66428",
+    "body": "7",
+    "coords": { "x": 145.90625, "y": 139.90625, "z": 150.1875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector YP-O d6-114",
+    "body": "6",
+    "coords": { "x": 97.90625, "y": 89.625, "z": 145.75 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector NZ-D c13-10",
+    "body": "5",
+    "coords": { "x": 92.90625, "y": 256.40625, "z": 182 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector CN-N b22-1",
+    "body": "7",
+    "coords": { "x": 99.65625, "y": 116.5625, "z": 119.9375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector UU-E c12-13",
+    "body": "B 5",
+    "coords": { "x": 128.96875, "y": 93.53125, "z": 159.96875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wolf 540",
+    "body": "B 3",
+    "coords": { "x": 0.6875, "y": 235.6875, "z": 163.0625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq WO-A d41",
+    "body": "ABC 4",
+    "coords": { "x": 115.875, "y": 251.03125, "z": 223.1875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 79546",
+    "body": "A 5",
+    "coords": { "x": 45.34375, "y": 80.59375, "z": 257.5 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector TU-E c12-6",
+    "body": "A 8",
+    "coords": { "x": 71.21875, "y": 66.4375, "z": 160.8125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector OL-O b22-1",
+    "body": "6",
+    "coords": { "x": 21.90625, "y": 221.8125, "z": 119.53125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector YA-D c13-5",
+    "body": "A 3",
+    "coords": { "x": 120.09375, "y": 72.15625, "z": 183.5 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 72353",
+    "body": "AB 5",
+    "coords": { "x": 66.4375, "y": 77.09375, "z": 129.09375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq DV-Y c2",
+    "body": "B 1",
+    "coords": { "x": 141.96875, "y": 108.75, "z": 261.375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector BJ-C b28-6",
+    "body": "A 10",
+    "coords": { "x": 9.96875, "y": 73.3125, "z": 239.34375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Wregoe BZ-W b57-0",
+    "body": "2",
+    "coords": { "x": 162.71875, "y": 225.0625, "z": 186.8125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 71142",
+    "body": "ABC 5",
+    "coords": { "x": 5.25, "y": 254.34375, "z": 159.0625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 80291",
+    "body": "5",
+    "coords": { "x": -26.5625, "y": 131.5625, "z": 260.78125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector TZ-E c12-22",
+    "body": "8",
+    "coords": { "x": 154.75, "y": 100.21875, "z": 156.71875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq LY-Y b1-0",
+    "body": "A 4",
+    "coords": { "x": -1.1875, "y": 240.5, "z": 258.34375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 63903",
+    "body": "1 a",
+    "coords": { "x": 154.9375, "y": 192.375, "z": 123.46875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq LR-V b2-0",
+    "body": "3",
+    "coords": { "x": 115.9375, "y": 94.25, "z": 283 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector GI-N b22-1",
+    "body": "B 6",
+    "coords": { "x": 140.53125, "y": 101.15625, "z": 127.3125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 70677",
+    "body": "12",
+    "coords": { "x": 45.21875, "y": 96.375, "z": 99.125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 80608",
+    "body": "8",
+    "coords": { "x": -16, "y": 78.8125, "z": 167.1875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector MV-O b22-2",
+    "body": "4",
+    "coords": { "x": 59.875, "y": 255.8125, "z": 116.3125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq OS-A b1-2",
+    "body": "3",
+    "coords": { "x": 138.84375, "y": 250.53125, "z": 248.40625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector RQ-O b22-2",
+    "body": "A 3",
+    "coords": { "x": 122.75, "y": 237.5, "z": 115.84375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq XJ-Z c12",
+    "body": "3",
+    "coords": { "x": 156.71875, "y": 224.625, "z": 258.96875 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector DN-Z c14-12",
+    "body": "A 2",
+    "coords": { "x": -11.8125, "y": 92.8125, "z": 268.75 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector OT-Q d5-42",
+    "body": "5",
+    "coords": { "x": -8.78125, "y": 215.25, "z": 107.09375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 65701",
+    "body": "AB 3",
+    "coords": { "x": 119.71875, "y": 86.6875, "z": 108.78125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq DV-Y c1",
+    "body": "A 6",
+    "coords": { "x": 156, "y": 125.6875, "z": 286.53125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector HI-N b22-4",
+    "body": "4",
+    "coords": { "x": 159.9375, "y": 114.0625, "z": 120.90625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector HI-N b22-4",
+    "body": "5",
+    "coords": { "x": 159.9375, "y": 114.0625, "z": 120.90625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector PT-G c11-17",
+    "body": "A 3",
+    "coords": { "x": 156.8125, "y": 98.84375, "z": 127.375 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector LV-Y b29-4",
+    "body": "A 4",
+    "coords": { "x": 48.5625, "y": 64.71875, "z": 286.625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector LV-Y b29-4",
+    "body": "A 5",
+    "coords": { "x": 48.5625, "y": 64.71875, "z": 286.625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector EJ-L b23-2",
+    "body": "A 1",
+    "coords": { "x": -23.9375, "y": 76.875, "z": 148.0625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Praea Euq DU-A b3",
+    "body": "C 3",
+    "coords": { "x": 158.90625, "y": 68.59375, "z": 234 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 79459",
+    "body": "A 13",
+    "coords": { "x": 83.6875, "y": 65.625, "z": 297.28125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 75762",
+    "body": "6",
+    "coords": { "x": 19.21875, "y": 68, "z": 106.78125 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Borme",
+    "body": "6",
+    "coords": { "x": 135.53125, "y": 65.375, "z": 122.5 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector ID-N b22-1",
+    "body": "A 6",
+    "coords": { "x": 142.375, "y": 75.5, "z": 116.5625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "HIP 64011",
+    "body": "AB 2",
+    "coords": { "x": 148.59375, "y": 85.5625, "z": 111.625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector DN-Z c14-6",
+    "body": "10",
+    "coords": { "x": -15.40625, "y": 72.90625, "z": 292.90625 },
+    "targets": ["Scanned"]
+  },
+  {
+    "name": "Col 285 Sector RO-G c11-12",
+    "body": "B 3",
+    "coords": { "x": 151.1875, "y": 64.65625, "z": 110.25 },
+    "targets": ["Scanned"]
+  }
 ]
