@@ -531,7 +531,7 @@ var HUD = {
   'setInfoPanel' : function(index, point) {
 
     $('#systemDetails').html(
-      '<h2>'+point.name+'</h2>'+
+      '<h2><span onClick="copyToClipboard(this)">'+point.name+'</span></h2>'+
       '<div class="coords">'+
       '  <span>'+point.x+'</span><span>'+point.y+'</span><span>'+(-point.z)+'</span></div>'+
       '  <p id="infos"></p>'+

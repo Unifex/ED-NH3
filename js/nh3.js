@@ -236,3 +236,15 @@ function getParticleId(system) {
   var z = -parseInt(system.coords.z); //-- Revert Z coord
   return x + '_' + y + '_' + z;
 }
+
+// Copy the text of the element to the clipboard using the async clipboard API.
+function copyToClipboard(element) {
+  var text = $(element).text();
+  navigator.clipboard.writeText(text).then(function () {
+    // Success!
+    console.log('Async: Copying to clipboard was successful!');
+  }, function (err) {
+    // Error!
+    console.error('Async: Could not copy text: ', err);
+  });
+}
