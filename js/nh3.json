@@ -1674,12 +1674,6 @@
     "targets": ["Scanned"]
   },
   {
-    "name": "Praea Euq OS-A b1-2",
-    "body": "3",
-    "coords": { "x": 138.84375, "y": 250.53125, "z": 248.40625 },
-    "targets": ["Scanned"]
-  },
-  {
     "name": "Col 285 Sector RQ-O b22-2",
     "body": "A 3",
     "coords": { "x": 122.75, "y": 237.5, "z": 115.84375 },
