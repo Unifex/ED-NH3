@@ -1506,12 +1506,6 @@
     "targets": ["Scanned"]
   },
   {
-    "name": "HIP 70720",
-    "body": "5 d",
-    "coords": { "x": 94.3125, "y": 247.53125, "z": 233.875 },
-    "targets": ["Scanned"]
-  },
-  {
     "name": "Col 285 Sector SA-I b25-2",
     "body": "A 3",
     "coords": { "x": 141.84375, "y": 109.375, "z": 184.84375 },
